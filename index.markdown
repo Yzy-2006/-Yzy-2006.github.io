@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 我的知识库
+nav_order: 0
 ---
 
 # 我的知识库
