@@ -10,11 +10,8 @@ nav_order: 0
 
 ## 分类
 
-- [Linux 笔记](linux.html)
-- [GitHub 笔记](github.html)
-- [Python 笔记](python.html)
-- [机器人学习](robotics.html)
-
+- [Linux 笔记](/linux/)
+- [Git](/git)
 ## 最近在学
 
 - Jekyll 搭建网站
